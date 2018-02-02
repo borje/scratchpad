@@ -1,7 +1,7 @@
 +++
 title = "unsorted"
 topics = []
-keywords = []
+keywords = ["osx"]
 description = "unsorted stuff"
 draft = false
 type = "post"
