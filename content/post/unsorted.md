@@ -6,7 +6,7 @@ description = "unsorted stuff"
 draft = false
 type = "post"
 date = "2017-01-10T13:58:52+01:00"
-tags = []
+tags = ["osx", "tmux"]
 author = "Börje Granberg"
 
 +++
