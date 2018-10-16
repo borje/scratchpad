@@ -51,3 +51,9 @@ Copy/paste the following lines:
 Follow this suggestion: https://www.tonymacx86.com/threads/how-to-get-usb-3-0-working-on-ga-z68mx-ud2h-b3.176326/page-3#post-1280629
 
 I Removed  FakePCIID_XHCIMux.kext & FakePCIID.kext from /S/L/E
+
+----
+
+Removed GenericUSHXHCI from /L/E
+Using Multibeast 9.2.1 reinstalled 7/8/9 Series USB Support (and then got new Fake*.kexts)
+ 
