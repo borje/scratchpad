@@ -45,3 +45,9 @@ Copy/paste the following lines:
 "$^\UF72B" = "moveToEndOfDocumentAndModifySelection:"; /* Shift + Ctrl + End */
 }
 ```
+
+### USB unmounts during write/read
+
+Follow this suggestion: https://www.tonymacx86.com/threads/how-to-get-usb-3-0-working-on-ga-z68mx-ud2h-b3.176326/page-3#post-1280629
+
+I Removed  FakePCIID_XHCIMux.kext & FakePCIID.kext from /S/L/E
