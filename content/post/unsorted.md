@@ -57,3 +57,7 @@ I Removed  FakePCIID_XHCIMux.kext & FakePCIID.kext from /S/L/E
 Removed GenericUSHXHCI from /L/E
 Using Multibeast 9.2.1 reinstalled 7/8/9 Series USB Support (and then got new Fake*.kexts)
  
+### Hackingtosh reboots after deep sleep
+
+added darkwake=10 to clover.plist
+if that does not work i will try 2, and 8
